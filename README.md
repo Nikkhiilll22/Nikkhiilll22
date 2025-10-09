@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Nikhil%20Bhati&fontColor=ffffff&fontSize=69&animation=fadeIn&textBg=false&descAlign=99&descAlignY=6" />
 </p>
-# 👋 Hi, I'm Nikhil Bhati  
+👋 Hi, I'm Nikhil Bhati  
 
 🚀 **Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning**  
 
