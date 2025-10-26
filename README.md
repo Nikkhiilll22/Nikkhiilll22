@@ -26,6 +26,10 @@ I am passionate about transforming raw data into actionable insights using moder
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-00BFFF?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ### 🔹 Data Visualization  
@@ -47,11 +51,14 @@ I am passionate about transforming raw data into actionable insights using moder
 ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-673AB7?style=for-the-badge)  
 ![Data Pipeline Optimization](https://img.shields.io/badge/Data%20Pipeline%20Optimization-607D8B?style=for-the-badge)  
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-E91E63?style=for-the-badge)  
-
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 🚀 Projects  
+
+📌 [**Gesture Controlled Cursor**](https://github.com/Nikkhiilll22/Hand-Gesture-Based-Cursor-Control)  
+> Developed a real-time, touchless cursor control system using Python, OpenCV, CVZone, MediaPipe, and PyAutoGUI, tracking 21 hand landmarks at 30+ FPS with less than 100ms latency.
 
 📌 [**Retail Revenue Leakage Detection**](https://github.com/Nikkhiilll22/-Retail-Revenue-Leakage-Detection-Capstone-Project-)  
 > Detected anomalies in 500K+ sales records, identifying 15% discount misuse and fraud cases. Built predictive models (92% accuracy) and automated ETL pipelines for efficiency.  
@@ -62,6 +69,11 @@ I am passionate about transforming raw data into actionable insights using moder
 📌 [**Netflix Recommender System**](https://github.com/Nikkhiilll22/Netflix-User-Behavior-and-Content-Analysis)  
 > Designed a hybrid recommendation engine combining collaborative + content-based filtering, improving accuracy by 30% across 5K+ records.  
 
+📌 [**Fake Product Detection using Blockchain**](https://github.com/Nikkhiilll22/Fake-Product-Detection-using-Blockchain)  
+> Designed a decentralized blockchain-based system to verify product authenticity using Solidity, Ethereum, and Web3.js, ensuring 100% tamper-proof tracking across the supply chain.
+
+📌 [**FurniRo — E-commerce Marketplace**](https://github.com/Nikkhiilll22/FurniRo-E-commerce-Marketplace)  
+> Engineered a full-stack furniture marketplace with 10+ responsive pages using React.js, Context API, and React Router, providing seamless shopping and cart management for users.
 ---
 
 ## 🎓 Certifications  
