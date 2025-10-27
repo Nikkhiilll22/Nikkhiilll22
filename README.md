@@ -55,7 +55,18 @@ I am passionate about transforming raw data into actionable insights using moder
 
 ---
 
-## 🚀 Projects  
+### 📊 GitHub Stats          
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikkhiilll22&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkhiilll22&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikkhiilll22&theme=tokyonight" height="180em"/>
+</p>
+
+### 🚀 Projects  
 
 📌 [**Gesture Controlled Cursor**](https://github.com/Nikkhiilll22/Hand-Gesture-Based-Cursor-Control)  
 > Developed a real-time, touchless cursor control system using Python, OpenCV, CVZone, MediaPipe, and PyAutoGUI, tracking 21 hand landmarks at 30+ FPS with less than 100ms latency.
