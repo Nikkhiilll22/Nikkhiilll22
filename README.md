@@ -58,7 +58,7 @@ I am passionate about transforming raw data into actionable insights using moder
 ### 📊 GitHub Stats          
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikkhiilll22&show_icons=true&theme=tokyonight" height="180em"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkhiilll22&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
